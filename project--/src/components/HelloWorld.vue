@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    {{ "lsakfoskodik" }}
+    <div class="all">修改</div>
   </div>
 </template>
 
